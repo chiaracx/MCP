@@ -1,0 +1,19 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "Initial MCP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiaracx/mcp.git"
+  },
+  "author": "Chiara Comparatore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiaracx/mcp/issues"
+  },
+  "homepage": "https://github.com/chiaracx/mcp#readme"
+}
